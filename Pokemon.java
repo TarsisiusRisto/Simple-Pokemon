@@ -1,4 +1,4 @@
-public class Pokemon {
+public abstract class Pokemon implements hasEvolve{
     public int hp = 10, cp = 10, lvl = 1, exp = 0;
     protected boolean evolve = false;
 

@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Charmander extends Pokemon implements hasEvolve{
+public class Charmander extends Pokemon{
      Charmander() {
         super();
         this.hp = 40;

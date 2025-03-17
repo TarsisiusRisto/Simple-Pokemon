@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Squirtle extends Pokemon implements hasEvolve{
+public class Squirtle extends Pokemon{
     Squirtle(){
         super();
         this.hp = 40;
